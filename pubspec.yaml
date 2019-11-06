@@ -47,6 +47,12 @@ flutter:
     - assets/Picture1.jpg
     - assets/Picture2.png
     - assets/heartbeat.png
+    - assets/thermometer.png
+    - assets/oxygen.png
+    - assets/patient.png
+    - assets/respiration.svg
+    - assets/resp.jpg
+    - assets/urea.png
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
